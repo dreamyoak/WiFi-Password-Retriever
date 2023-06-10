@@ -8,13 +8,13 @@ WiFi Password Retriever is a multi-language project that provides code snippets 
 ## 🚀 Features
 
 - 🔒 Retrieve Wi-Fi passwords programmatically from devices.
-- 💻 Supported programming languages: C++, C#, Go, JavaScript, PHP, Perl, PowerShell, Python, Rust.
+- 💻 Supported programming languages: C++, C#, Go, JavaScript, PHP, Perl, PowerShell, Python, Rust, Java.
 - 🚀 Simple and easy-to-use code snippets for each language.
 - 🔧 Suitable for integration into applications, scripts, or security auditing tools.
 
 ## 📝 Description 
 
-WiFi Password Retrieve provides code snippets in popular programming languages like C++, C#, Go, JavaScript, PHP, Perl, PowerShell, Python, and Rust. These snippets enable users to extract Wi-Fi passwords from different platforms and operating systems, facilitating automation and convenience.
+WiFi Password Retrieve provides code snippets in popular programming languages like C++, C#, Go, JavaScript, PHP, Perl, PowerShell, Python, and Rust, Java. These snippets enable users to extract Wi-Fi passwords from different platforms and operating systems, facilitating automation and convenience.
 
 The project aims to assist developers, network administrators, and security professionals who need to retrieve saved Wi-Fi passwords without manual intervention. By utilizing the code snippets specific to their preferred programming language, users can easily incorporate the functionality into their own applications, scripts, or security auditing tools.
 
@@ -29,6 +29,7 @@ The project aims to assist developers, network administrators, and security prof
 - [PowerShell](main.ps1)
 - [Python](main.py)
 - [Rust](main.rs)
+- [Java](main.java)
 
 ## 💡 Usage
 
